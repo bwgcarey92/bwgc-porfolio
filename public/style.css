@@ -455,7 +455,6 @@ textarea {
   .header__logo-container {
     display: flex;
     align-items: center;
-    cursor: pointer;
     color: #333;
     transition: color .3s; }
     .header__logo-container:hover {
